@@ -1,0 +1,22 @@
+# Assignment 1, Task 3
+# Name: Alexander Ogay
+# Collaborators:
+# Time Spent: 0:30 hrs
+width = 16
+height = 9.0
+1) 5.333 float
+2) 8.0 float
+3) 3.0 float
+4) 3.0 float
+5) 72.0 float
+6) 72.0 float
+7) 23 int
+8) 20 int
+9) 20.75 float
+10) 20.75 float
+Part 2:
+1) 6 int
+2) 8 int
+3) 9 int
+4) 9.3125 float
+5) 38.265625 float
