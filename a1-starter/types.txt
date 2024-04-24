@@ -1,0 +1,23 @@
+# Assignment 1, Task 3
+# Name: Alexander Ogay
+# Collaborators:
+# Time Spent: 0:20 hrs
+
+# Part I
+1) 5.33333(float)
+2) 8.0 (float)
+3) 3.0 (float)
+4) 2.0 (float)
+5) 72.0 (float)
+6) 128.0 (float)
+7) 23 (int)
+8) 20 (int)
+9) 20.75 (float)
+10) 20.75 (float)
+
+# Part II
+1) int 6
+2) int 8
+3) int 9
+4) float 7.75
+5) float 10.0

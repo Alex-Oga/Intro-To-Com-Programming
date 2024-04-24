@@ -1,0 +1,12 @@
+# Assignment 1, Task 4
+# Name: Alexander Ogay
+# Collaborators:
+# Time Spent: 0:10 hrs
+
+Program I:
+x = 1
+y = 0
+
+Program II:
+x = 50
+50>=40 and 50%20//10==1
